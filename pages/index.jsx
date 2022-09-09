@@ -1,5 +1,5 @@
 import Head from "next/head";
-import LinkIcon from "../assets/LinkIcon";
+import LinkIcon from "../assets/LinkIcon.jsx";
 import { useState } from "react";
 import useRegex from "../hooks/useRegex";
 
